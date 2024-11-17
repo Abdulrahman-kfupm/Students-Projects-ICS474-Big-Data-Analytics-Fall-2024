@@ -56,9 +56,9 @@ Outlier Analysis: Detected anomalies in meter_reading that could affect predicti
 
 ## Future Improvements
 
-Algorithm Enhancements: Implement advanced algorithms like XGBoost or Random Forest.
-Cross-Validation: Apply K-fold cross-validation for improved generalization.
-Hyperparameter Tuning: Optimize models for better accuracy.
-Feature Scaling: Investigate feature scaling for algorithms sensitive to magnitude differences.
+- Algorithm Enhancements: Implement advanced algorithms like XGBoost or Random Forest.
+- Cross-Validation: Apply K-fold cross-validation for improved generalization.
+- Hyperparameter Tuning: Optimize models for better accuracy.
+- Feature Scaling: Investigate feature scaling for algorithms sensitive to magnitude differences.
 
 
