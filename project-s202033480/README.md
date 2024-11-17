@@ -50,9 +50,9 @@ Performance Metrics: Evaluation using metrics like Mean Squared Error (MSE).
 
 ## Key Findings
 
-Data Characteristics: Initial data analysis highlighted missing values and potential inconsistencies.
-Feature Importance: Key influential features included air_temperature, square_feet, and cloud_coverage.
-Outlier Analysis: Detected anomalies in meter_reading that could affect predictions.
+- Data Characteristics: Initial data analysis highlighted missing values and potential inconsistencies.
+- Feature Importance: Key influential features included air_temperature, square_feet, and cloud_coverage.
+- Outlier Analysis: Detected anomalies in meter_reading that could affect predictions.
 
 ## Future Improvements
 
